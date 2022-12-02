@@ -3,7 +3,7 @@ _**@kelp-of-truth**_</a>
 
 <br><br>
 
-|Github|<a href="https://github.com/kelp-of-truth">`kelp-of-truth`</a>|
+|**Github**|<a href="https://github.com/kelp-of-truth">**`kelp-of-truth`**</a>|
 |:-|:-|
 |**Discord**|<a href="https://discord.com">**`Konbu0918#1686`**</a>|
 |**Twitter**|<a href="https://twitter.com/KelpOfTruth">**`@KelpOfTruth`**</a>|
