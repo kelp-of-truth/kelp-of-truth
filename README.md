@@ -7,4 +7,4 @@ _**@kelp-of-truth**_</a>
 |:-|:-|
 |Discord|`Konbu0918#1686`|
 |Twitter|<a href="https://twitter.com/KelpOfTruth">`@KelpOfTruth`</a>|
-|Youtube|<a href="https://youtube.com/@KelpOfTruth">`Kelp Of Truth`</a>|
+|YouTube|<a href="https://youtube.com/@KelpOfTruth">`Kelp Of Truth`</a>|
