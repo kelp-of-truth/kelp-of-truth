@@ -1,4 +1,4 @@
-<a href="https://github.com/kelp-of-truth"><img src="https://avatars.githubusercontent.com/u/102844552?v=4" style="height: 128px;width: 128px;"><br>
+<a href="https://github.com/kelp-of-truth" style="text-alighn: center;"><img src="https://avatars.githubusercontent.com/u/102844552?v=4" style="height: 128px;width: 128px;"><br>
 _**@kelp-of-truth**_</a>
 
 <br><br>
