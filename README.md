@@ -6,5 +6,5 @@ _**@kelp-of-truth**_</a>
 |Github|<a href="https://github.com/kelp-of-truth">`kelp-of-truth`</a>|
 |:-|:-|
 |**Discord**|<a href="https://discord.com">**`Konbu0918#1686`**</a>|
-|**Twitter**|<a href="https://twitter.com/KelpOfTruth">`@KelpOfTruth`</a>|
-|**YouTube**|<a href="https://youtube.com/@KelpOfTruth">`Kelp Of Truth`</a>|
+|**Twitter**|<a href="https://twitter.com/KelpOfTruth">**`@KelpOfTruth`**</a>|
+|**YouTube**|<a href="https://youtube.com/@KelpOfTruth">**`Kelp Of Truth`**</a>|
