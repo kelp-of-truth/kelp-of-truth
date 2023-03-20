@@ -1,10 +1,14 @@
-<a href="https://github.com/kelp-of-truth" style="text-alighn: center;"><img src="https://avatars.githubusercontent.com/u/102844552?v=4" style="height: 128px;width: 128px;"><br>
-_**@kelp-of-truth**_</a>
+![Header](./github-header-image.png)
+---
+<br>
 
-<br><br>
-
-|**Github**|<a href="https://github.com/kelp-of-truth">**`kelp-of-truth`**</a>|
-|:-|:-|
-|**Discord**|<a href="https://discord.com">**`Konbu0918#1686`**</a>|
-|**Twitter**|<a href="https://twitter.com/KelpOfTruth">**`@KelpOfTruth`**</a>|
-|**YouTube**|<a href="https://youtube.com/@KelpOfTruth">**`Kelp Of Truth`**</a>|
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kelp-of-truth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kelp-of-truth&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+<br>
+<div align="center">
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=31e3psve7a4wcbohtu3vwpr5353y&redirect=true">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31e3psve7a4wcbohtu3vwpr5353y&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" alt="spotify-github-profile">
+</a>
+</div>
