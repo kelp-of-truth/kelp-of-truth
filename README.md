@@ -1,5 +1,5 @@
 <!--![Header](./github-header-image.png)-->
-<h3 align="center">*Hi! I'm Kelp Of Truth. *</h3>
+<h3 align="center">Hi! I'm Kelp Of Truth. </h3>
 
 ---
 <br>
