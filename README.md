@@ -1,12 +1,6 @@
 <!--![Header](./github-header-image.png)-->
 <h2 align="center">Kelp Of Truth</h3>
 
-### NEUTRINO
-
-
-https://github.com/kelp-of-truth/kelp-of-truth/assets/102844552/1137bf28-bd7b-4167-b01d-0d8d6397666d
-
-
 
 ### About
 <br>
