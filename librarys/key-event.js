@@ -1,7 +1,7 @@
 let key_arr=[];
 const Key=class{
-    constructor(keycode,detail){
-        this.keycode=keycode;
+    constructor(key_code,detail){
+        this.key_code=keycode;
         if(detail===null){
             this.detail={
                 
@@ -11,13 +11,13 @@ const Key=class{
         }
     }
     set setState(state){
-        key_arr[this.keycode]=state;
+        key_arr[this.key_code]=state;
     }
     get state(){
-        return key_arr[this.keycode];
+        return key_arr[this.key_code];
     }
-    get keycode(){
-        return this.keycode;
+    get key_code(){
+        return this.key_code;
     }
 }
 document.addEventListener("keydown",(e)=>{
