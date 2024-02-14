@@ -1,7 +1,7 @@
 let key_arr=[];
 const Key=class{
     constructor(key_code,detail){
-        this.key_code=keycode;
+        this.key_code=key_code;
         if(detail===null){
             this.detail={
                 
