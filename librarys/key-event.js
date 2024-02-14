@@ -1,5 +1,5 @@
 let key_arr=[];
-const Key=class{
+class Key{
     constructor(key_code,detail){
         this.key_code=key_code;
         if(detail===null){
