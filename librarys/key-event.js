@@ -1,30 +1,27 @@
 let key_arr=[];
 class Key{
-    constructor(key_code,detail){
-        this.key_code=key_code;
-        if(detail===null){
-            this.detail={
-                
-            }
-        }else{
-            this.detail=detail;
-        }
-    }
-    set setState(state){
-        key_arr[this.key_code]=state;
+    constructor(code){
+        this.code=code;
+        key_arr[this.code]=0;
     }
     get state(){
-        return key_arr[this.key_code];
-    }
-    get key_code(){
-        return this.key_code;
+        if(key_arr[this.code]===1){
+            key_arr[this.code]=2;
+            return 1;
+        }else{
+            return key_arr[this.code];
+        }
     }
 }
 document.addEventListener("keydown",(e)=>{
-    key_arr[e.keyCode]=true;
+    if(key_arr[e.keyCode]===0){
+        key_arr[e.keyCode]=1;
+    }else{
+        return false;
+    }
 })
 document.addEventListener("keyup",(e)=>{
-    key_arr[e.keyCode]=false;
+    key_arr[e.keyCode]=0;
 })
 
 // Keys
