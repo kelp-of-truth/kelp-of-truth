@@ -2,7 +2,7 @@ const codeEle=document.querySelectorAll("code");
 const cm=document.querySelectorAll("code.cm");
 let cmcnt=0;
 for(let idx of codeEle){
-    if(idx.classList.contains("ncm"))continue;
+    if(idx.classList.contains("ecm"))continue;
     var context=idx.innerHTML;
     // HEX
     if(context[0]==="#"&&context.length<=7&&parseInt(context.slice(1,context.length-1))!==NaN){
