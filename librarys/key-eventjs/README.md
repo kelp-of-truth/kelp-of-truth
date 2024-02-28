@@ -1,6 +1,7 @@
 # key-event.js
 
-[Download](https://raw.githubusercontent.com/kelp-of-truth/kelp-of-truth/main/librarys/key-event.js)
+- [key-event.js](https://raw.githubusercontent.com/kelp-of-truth/kelp-of-truth/main/librarys/key-event.js)
+- [key-event.min.js](https://raw.githubusercontent.com/kelp-of-truth/kelp-of-truth/main/librarys/key-event.min.js)
 ## キーの状態の取得
 ### 構文
 ```js
